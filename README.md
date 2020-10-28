@@ -17,7 +17,8 @@
 	<meta charset="utf-8">
 </head>
 <body>
-	<img src="https://liquipedia.net/commons/images/0/07/Puppey_SL_i-League_S3.jpg" alt="Puppey_SL_i-League_S3">
+	<img src="https://gameinside.ua/wp-content/uploads/2020/01/team-secret-puppey-2019-1024x1022.jpg" alt="Puppey"
+	style="float:right;width: 151;height: 150 ">
 
 </body>
 <html>
