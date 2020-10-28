@@ -18,7 +18,7 @@
 </head>
 <body>
 	<img src="https://gameinside.ua/wp-content/uploads/2020/01/team-secret-puppey-2019-1024x1022.jpg" alt="Puppey"
-	style="float:right;width: 151;height: 150 ">
+	style="float:right;width:51;height:50">
 
 </body>
 <html>
