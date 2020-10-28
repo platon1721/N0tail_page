@@ -48,5 +48,74 @@
 	<p>The shuffle did not have the intended results as the team had a second-to-last placing at ESL One Manila and a last place finish at the Manila Major. After which, the team traded UNiVeRse for BuLba, and later received Aui 2000 as a coach. The team seemed to have recovered with a second-place finish at Starladder, but they were quickly shot back down to the bottom with a last place finish at The International 2016.</p>
 	<p>The team later disbanded a second time with all members and coaches, save for Puppey and Pieliedie, leaving. Although there was a major setback, the team was able to rebound when it received Midone, Forev and MP from the post-International shuffle. The reformed team was able to take top 4 the MarsTV Dota League as well as 1st at the Faceit Invitational. In the end, though, the team failed to qualify for the Boston Major, and Forev later departed and was replaced by Khezu. Team Secret would later go on to take first at ROG MASTERS.</p>
 	<img src="https://cdn.oneesports.gg/wp-content/uploads/2020/09/Dota2-Banner-1024x538.jpg" alt="Team_secret_today">
+	<h2>Puppey: Results</h2>
+	<table style="width: 70%">
+	<tr>
+		<th>Year</th>
+		<th>First Place</th>
+		<th>Second Place</th>
+		<th>Third Place</th>
+	</tr>
+	<tr>
+		<th>2011</th>
+		<th>2</th>
+		<th>1</th>
+		<th>-</th>
+	</tr>
+	<tr>
+		<th>2012</th>
+		<th>11</th>
+		<th>4</th>
+		<th>1</th>
+	</tr>
+	<tr>
+		<th>2013</th>
+		<th>11</th>
+		<th>1</th>
+		<th>4</th>
+	</tr>
+	<tr>
+		<th>2014</th>
+		<th>4</th>
+		<th>3</th>
+		<th>2</th>
+	</tr>
+	<tr>
+		<th>2015</th>
+		<th>7</th>
+		<th>2</th>
+		<th>1</th>
+	</tr>
+	<tr>
+		<th>2016</th>
+		<th>3</th>
+		<th>1</th>
+		<th>-</th>
+	</tr>
+	<tr>
+		<th>2017</th>
+		<th>2</th>
+		<th>2</th>
+		<th>4</th>
+	</tr>
+	<tr>
+		<th>2018</th>
+		<th>4</th>
+		<th>1</th>
+		<th>2</th>
+	</tr>	
+	<tr>
+		<th>2019</th>
+		<th>4</th>
+		<th>-</th>
+		<th>1</th>
+	</tr>
+	<tr>
+		<th>2020</th>
+		<th>9</th>
+		<th>1</th>
+		<th>-</th>
+	</tr>
+	</table>
 </body>
 <html>
