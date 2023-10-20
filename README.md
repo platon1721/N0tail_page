@@ -17,7 +17,7 @@
 	<meta charset="utf-8">
 </head>
 <body>
-	<img src="[https://gameinside.ua/wp-content/uploads/2020/01/team-secret-puppey-2019-1024x1022.jpg](https://liquipedia.net/commons/images/b/b6/N0tail_DreamLeague_Season_5.jpg)" alt="N0tail"
+	<img src="https://liquipedia.net/commons/images/b/b6/N0tail_DreamLeague_Season_5.jpg" alt="N0tail"
 	style="float:right;width: 151;height: 150 ">
 	<h1>N0tail</h1>
 	<p>Johan "N0tail" Sundstein (formerly known as BigDaddy) (born October 8, 1993) is an inactive Danish/Faeroese player who is currently on the inactive roster of OG.</p>
