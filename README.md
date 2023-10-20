@@ -17,7 +17,7 @@
 	<meta charset="utf-8">
 </head>
 <body>
-	<img src="https://liquipedia.net/commons/images/b/b6/N0tail_DreamLeague_Season_5.jpg" alt="N0tail"
+	<img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/89/N0tail_TI4.jpg/revision/latest/scale-to-width-down/1200?cb=20170223161612" alt="N0tail"
 	style="float:right;width: 151;height: 150 ">
 	<h1>N0tail</h1>
 	<p>Johan "N0tail" Sundstein (formerly known as BigDaddy) (born October 8, 1993) is an inactive Danish/Faeroese player who is currently on the inactive roster of OG.</p>
