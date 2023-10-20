@@ -36,8 +36,7 @@ OG was N0tail's path to redemption and success alike, with initial success comin
 Despite a slow start during The International 2018's group stage, OG finished fourth and were seeded into the upper bracket of the main event. Considered underdogs during their entire time at the event, OG managed to advance to the grand finals and won the tournament by defeating PSG.LGD in the grand final series with a score of 3–2. After winning The International 2018, N0tail was featured in Forbes' 30 under 30 in gaming at the age of 25. The following year, he won The International 2019, making him and OG at the time the first repeat winners of the International.
 
 Despite being inactive from competing since The International 2021, N0tail would clarify during The International 2022 that he is not retired but only taking a break. He would later form a roster called Old G with former teammates Topson and Ceb, the stack did not manage to qualify to DPC 2023 in the first tour, Notail has since noted that at the moment he is not willing to play competitively.</p>
-	<img src="https://cdn.oneesports.gg/wp-content/uploads/2020/09/Dota2-Banner-1024x538.jpg" alt="Team_secret_today">
-	<h2>Puppey: Results</h2>
+	<h2>N0tail: Results</h2>
 	<table style="width: 70%">
 	<tr>
 		<th>Year</th>
